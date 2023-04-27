@@ -1,4 +1,4 @@
-import "./About.css";
+import "./about.css";
 import Info from "./Info";
 import CV from "../assets/My_Resume.pdf";
 import { Fade, Slide } from "react-awesome-reveal";
