@@ -22,13 +22,11 @@ const About = () => {
             <Info />
             <Fade direction="right" triggerOnce>
               <p className="about__description">
-                Motivated software engineer seeking entry level employment with
-                a growing company. Graduated from Full-stack Academy boot-camp
-                at University of Illinois at Chicago. Freelance experience
-                includes developing web projects utilizing Python 3, Node JS,
-                React (JS, TS), HTML, CSS, WordPress, Databases and more.
-                Excited to contribute to a team, continue learning, and add
-                value to answer business needs with technology.
+              As a  student at Vellore Institute of Technology, I am already making waves in the world of web development. I have an impressive portfolio of more than 10+ paid websites that I have built for local stores, demonstrating my strong skills in HTML/CSS and JavaScript for the client side, and PHP and Python for server side scripting.
+
+With a passion for software space development and problem-solving, I am actively seeking to pivot my career from a Junior Web Developer to a more challenging role in this field. I am always up for a challenge, and I thrive under pressure. My keen attention to detail, combined with my ability to work collaboratively with others, makes me an asset to any team.
+
+My future goals include honing my skills in software development, and contributing to innovative projects that make a positive impact on the world. 
               </p>
             </Fade>
             <a download="" href={CV} className="button button--flex">
