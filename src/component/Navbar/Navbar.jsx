@@ -15,13 +15,13 @@ export default function Navbar() {
           <a href="#home" className="active">Home</a>
         </li>
         <li>
-          <a href="#home">About</a>{" "}
+          <a href="#about">About</a>{" "}
         </li>
         <li>
-          <a href="#home">Work</a>{" "}
+          <a href="#skills">Skills</a>{" "}
         </li>{" "}
         <li>
-          <a href="#home">Contact</a>{" "}
+          <a href="#projects">Projects</a>{" "}
         </li>
         </ul>
     </nav>
