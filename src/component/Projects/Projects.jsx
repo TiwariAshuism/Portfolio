@@ -6,7 +6,7 @@ import "swiper/css";
 import "swiper/css/pagination";
 
 import "./Projects.css";
-import { data } from "../data/data";
+import { data } from "../data/Data";
 
 const Projects = () => {
   return (
